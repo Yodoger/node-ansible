@@ -4,7 +4,7 @@ all:
   children:
     sentry:
       hosts:
-       :
+       2603:900b:a0d:576f:647c:2ed8:7968:cf1:
     validator:
       hosts:
         :
